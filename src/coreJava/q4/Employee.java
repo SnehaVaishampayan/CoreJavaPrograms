@@ -1,4 +1,4 @@
-package src.q4;
+package src.coreJava.q4;
 
 public class Employee {
     private int id;

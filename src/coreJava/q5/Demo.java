@@ -1,4 +1,4 @@
-package src.q5;
+package src.coreJava.q5;
 
 public class Demo {
 

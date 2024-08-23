@@ -1,4 +1,4 @@
-package src.q3;
+package src.coreJava.q3;
 
 public class Demo {
     public static void main(String[] args) {

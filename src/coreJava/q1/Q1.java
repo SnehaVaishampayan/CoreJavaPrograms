@@ -1,4 +1,4 @@
-package src.q1;
+package src.coreJava.q1;
 
 public class Q1 {
     public static void main(String args[]) {

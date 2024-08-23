@@ -1,10 +1,9 @@
-package src.q5;
+package src.coreJava.q2;
 
-public class Employee {
-    int id;
-    String name;
-    int salary;
-
+class Employee {
+    private  int id;
+    private String name;
+    private int salary;
     public Employee(int id, String name, int salary) {
         this.id = id;
         this.name = name;
